@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS linguini_db;
+CREATE DATABASE linguini_db;
